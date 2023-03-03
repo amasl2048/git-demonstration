@@ -1,12 +1,8 @@
 #include <stdio.h>
-
-void some_function() {
-  int x = 55;
-}
+#include "work.h"
 
 int main() {
-  int x = 1024;
-  printf("Variable value is %d\n", x);
+  some_function();
   printf("Bye\n");
   return 0;
 }
