@@ -2,7 +2,7 @@
 #include "work.h"
 
 int main() {
-  printf("Hello from cloned repository\n");
+  printf("Hello main dev\n");
   some_function();
   printf("Bye\n");
   return 0;
